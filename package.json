@@ -6,7 +6,7 @@
   "dependencies": {
   },
   "optionalDependencies": {
-    "spi": "^0.2.0"
+    "spi": "etobi/node-spi"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
